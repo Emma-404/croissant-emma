@@ -1,0 +1,25 @@
+:roots {
+  --background-color: #f8e8a6;
+  --link-color: #058001;
+}
+
+body {
+  color: var(--background-color);
+}
+
+a {
+  text-align: center;
+  color: var(--link-color);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border-radius: 15px;
+}
